@@ -1,6 +1,6 @@
 #Mac Key Symbols
 
-This extremely unimpressive app, show you a legend, identifying which mysifying glyphs refer to which keys.
+This extremely unimpressive app, shows you a legend, identifying which mysifying glyphs refer to which keys.
 
 Super easy to build, but very useful.
 
