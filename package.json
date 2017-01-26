@@ -1,0 +1,16 @@
+{
+  "name": "mac-key-symbols",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
+}
